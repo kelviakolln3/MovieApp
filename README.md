@@ -6,8 +6,8 @@
 
 - Passos para executar:
 1° Dar um flutter pub get 
-2° Concetar um celular com o modo desenvolvedor habilitado ou ter um emulador no Andoid Studio
-3° No terminar digitar o seguinte comando "flutter run"
+2° Conectar um celular com o modo desenvolvedor habilitado ou ter um emulador no Andoid Studio
+3° No terminal digitar o seguinte comando "flutter run"
 
 - Passos para criar um executavel apk
 1° No terminal executar o seguinte comando "flutter build apk --release"
